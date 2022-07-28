@@ -1,6 +1,6 @@
 # Challenge Task 1
  
- These files are for the challenge provided by Deep Thought asa test.
+ These files are for the challenge provided by Deep Thought as a test.
  
  ## Available Scripts
 
@@ -15,8 +15,8 @@
  
  ### API
  
- `GET`  http://localhost:8000/api/v3/app/events?id=*event_id*
- `GET`  http://localhost:8000/api/v3/app/events?type=*latest*&limit=2&page=0 _{type : latest, normal }_
- `POST` http://localhost:8000/api/v3/app/events
- `PUT`  http://localhost:8000/api/v3/app/events/*:id*
- `DEL`  http://localhost:8000/api/v3/app/events/*:id*
+ `GET`  http://localhost:8000/api/v3/app/events?id=**event_id** \
+ `GET`  http://localhost:8000/api/v3/app/events?type=**latest**&limit=2&page=0 _{type : latest, normal }_ \
+ `POST` http://localhost:8000/api/v3/app/events \
+ `PUT`  http://localhost:8000/api/v3/app/events/**:id** \
+ `DEL`  http://localhost:8000/api/v3/app/events/**:id** \
