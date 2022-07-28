@@ -20,3 +20,7 @@
  `POST` http://localhost:8000/api/v3/app/events \
  `PUT`  http://localhost:8000/api/v3/app/events/ **:id** \
  `DEL`  http://localhost:8000/api/v3/app/events/ **:id** 
+
+## TASK 2
+
+ Documentation Google Drive [Link](https://drive.google.com/file/d/1giySIKvaRXGykuEsURjpHYM1TqFgwL0O/view?usp=sharing)
