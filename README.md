@@ -11,7 +11,7 @@
  Runs the app in the development mode.\
  Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
- Test these APIs on directly on [Postman](https://www.getpostman.com/collections/1f4f10f2ef2cd136b505).
+ Test these APIs on directly on Postman [JSON link](https://www.getpostman.com/collections/1f4f10f2ef2cd136b505).
  
  ### API
  
